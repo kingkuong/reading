@@ -149,3 +149,7 @@ Q: What are the example of Actor Model? Erlang OTP
 
 Eg: Erlang OTP
 
+
+# Further learning & references
+
+- Erlang OTP
